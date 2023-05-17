@@ -1,0 +1,32 @@
+_repo: A-history-of-commerce_70410
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Day, Clive
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '55748'
+    url: http://www.gutenberg.org/2009/agents/55748
+    wikipedia: https://en.wikipedia.org/wiki/Clive_Day
+description: ''
+gutenberg_issued: '2023-03-30'
+identifiers:
+  gutenberg: '70410'
+language: en
+pgterms:marc904: https://archive.org/details/historyofcommerc00dayciala
+pgterms:marc905: 20210613062045day
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Turgut Dincer, Brian Wilcox and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bLongmans, Green, and co., $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Commerce -- History'
+- !lcc 'HF'
+- GITenberg
+title: A history of commerce
+url: http://www.gutenberg.org/ebooks/70410
